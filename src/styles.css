@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+body{
+    font-family: 'Rubik',sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #fff;
+    padding-top: 50px;
+    overflow-x: hidden;
+    text-align: right;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    height: 100%;
+}
